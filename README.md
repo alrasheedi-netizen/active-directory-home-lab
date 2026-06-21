@@ -121,14 +121,32 @@ Final result:
 
 ## Screenshots
 
-Add screenshots demonstrating:
+### VMware Lab Environment
+![VMware Lab](01-VMware-Home-Screen.png)
 
-- Windows Server Installation
-- Active Directory Configuration
-- DNS Manager
-- Network Configuration
-- Domain Join Process
-- Successful Domain Join
+### Domain Controller Created
+![DC01 Created](04-DC01-Created.png)
+
+### Active Directory Promotion
+![AD DS Promotion](14-Promote-To-Domain-Controller.png)
+
+### Domain Login Success
+![Domain Login](21-Domain-Login-Success.png)
+
+### DNS and AD DS Installed
+![DNS Installed](22-AD-DS-DNS-Installed.png)
+
+### Security Groups
+![Security Groups](24-Security-Groups-and-Members.png)
+
+### Group Policy Configuration
+![GPO](26-GPO-Update-Success.png)
+
+### Windows 11 Client VM
+![Client VM](28-CLIENT01_VM_Creation.png)
+
+### Domain Join Success
+![Domain Join](32-CLIENT01_Joined_alrashidi.local.png)
 
 ---
 
