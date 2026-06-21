@@ -122,32 +122,31 @@ Final result:
 ## Screenshots
 
 ### VMware Lab Environment
-![VMware Lab](01-VMware-Home-Screen.png)
+![VMware Lab](01-VMware-Home-Screen.png.png)
 
 ### Domain Controller Created
-![DC01 Created](04-DC01-Created.png)
+![DC01 Created](04-DC01-Created.png.png)
 
 ### Active Directory Promotion
 ![AD DS Promotion](14-Promote-To-Domain-Controller.png)
 
 ### Domain Login Success
-![Domain Login](21-Domain-Login-Success.png)
+![Domain Login](21-Domain-Login-Success.png.png)
 
 ### DNS and AD DS Installed
-![DNS Installed](22-AD-DS-DNS-Installed.png)
+![DNS Installed](22-AD-DS-DNS-Installed.png.png)
 
 ### Security Groups
-![Security Groups](24-Security-Groups-and-Members.png)
+![Security Groups](24-Security-Groups-and-Members.png.png)
 
 ### Group Policy Configuration
-![GPO](26-GPO-Update-Success.png)
+![GPO](26-GPO-Update-Success.png.png)
 
 ### Windows 11 Client VM
-![Client VM](28-CLIENT01_VM_Creation.png)
+![Client VM](28-CLIENT01_VM_Creation.png.png)
 
 ### Domain Join Success
-![Domain Join](32-CLIENT01_Joined_alrashidi.local.png)
-
+![Domain Join](32-CLIENT01_Joined_alrashidi.local.png.png)
 ---
 
 ## Author
